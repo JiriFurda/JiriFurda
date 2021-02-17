@@ -5,6 +5,7 @@
 📖 Currently learning ASP.NET
 
 [![Linkedin: jiri-furda](https://img.shields.io/badge/-jiri--furda-blue?logo=Linkedin&link=https://www.linkedin.com/in/jiri-furda/)](https://www.linkedin.com/in/jiri-furda/)
+[![GitHub JiriFurda](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/JiriFurda)
 ![](https://komarev.com/ghpvc/?username=JiriFurda)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JiriFurda&theme=dark)
