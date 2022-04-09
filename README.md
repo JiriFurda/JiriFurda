@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Jiri 
-💼 Software Developer at SEACOMP s.r.o.  
-💡 Smart Home Enthusiast  
+💼 JavaScript/C# Developer at [SEACOMP s.r.o.](https://seacomp.cz/en/)  
+💡 Smart Home Enthusiast _(See my [Home Assistant config](https://github.com/JiriFurda/homeassistant-config))_  
 🎓 Former student at Faculty of Information Technology, Brno University of Technology  
-📖 Currently learning ASP.NET
+📖 Currently getting more involved in open source
 
 [![Linkedin: jiri-furda](https://img.shields.io/badge/-jiri--furda-blue?logo=Linkedin&link=https://www.linkedin.com/in/jiri-furda/)](https://www.linkedin.com/in/jiri-furda/)
 [![GitHub JiriFurda](https://img.shields.io/github/followers/JiriFurda?label=follow&style=social)](https://github.com/JiriFurda)
